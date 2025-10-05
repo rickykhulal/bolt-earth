@@ -1,0 +1,34 @@
+project_id = "qvgkupyfofxygjuczxor"
+
+[functions.nasa-tempo]
+verify_jwt = false
+
+[functions.nasa-imerg]
+verify_jwt = false
+
+[functions.nasa-daymet]
+verify_jwt = false
+
+[functions.openaq-proxy]
+verify_jwt = false
+
+[functions.nasa-earthdata-token]
+verify_jwt = false
+
+[functions.nasa-power]
+verify_jwt = false
+
+[functions.rapidapi-airquality]
+verify_jwt = false
+
+[functions.rapidapi-weather]
+verify_jwt = false
+
+[functions.rapidapi-weatherapi]
+verify_jwt = false
+
+[functions.custom-weather]
+verify_jwt = false
+
+[functions.meteostat-weather]
+verify_jwt = false
